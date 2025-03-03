@@ -1,4 +1,3 @@
-
 import { useState } from 'react';
 import { useBudget } from '@/context/BudgetContext';
 import Navbar from '@/components/layout/Navbar';
